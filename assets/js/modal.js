@@ -34,3 +34,4 @@ function nextImage(){
     document.getElementById("radio"+count).checked = true;
 }
 
+var blog = document.querySelector('.blog');

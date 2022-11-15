@@ -180,3 +180,8 @@ input {
 .descricao {
   
 }
+
+.rodape {
+  background-color: black;
+  border-radius: 6px;
+}
